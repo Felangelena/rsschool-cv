@@ -124,3 +124,9 @@ Computer processing of information - Specialist
 - Responsibility
 - Working on compromises
 
+## Languages
+
+- Ukrainian - native
+- Russian - native
+- English - B1
+- Polish - B1
