@@ -127,3 +127,8 @@ Computer processing of information - Specialist
 - Russian - native
 - English - B1
 - Polish - B1
+
+## On The Side
+- Spent time in swimming pool for relaxing
+- Dance reggaeton for fun
+- Learn new things on online courses
