@@ -80,3 +80,24 @@ Printing and publishing - Research engineer
 **College of National Aviation University** 2006-2010 | Kyiv<br>
 Computer processing of information - Specialist
 
+## Courses
+
+2021 - [CMS WordPress](https://www.udemy.com/certificate/UC-d67596f4-a477-464a-a245-c1a58a07e513/) - Udemy<br>
+2021 - [Web Development](https://www.udemy.com/certificate/UC-fee43bfc-c9bb-4ce2-a9ec-13494738e59e/) - Udemy<br>
+2020 - [jQuery](https://www.sololearn.com/Certificate/1082-645994/pdf/) - SoloLearn<br>
+2020 - [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/07edecef5a01bbdbb3270168e5453da731abaf27) - DataCamp<br>
+2020 - [Intermediate SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/069ba42672c063ea939c8fe17ff566c3fab80ef5) - DataCamp<br>
+2020 - [PHP Tutorial](https://www.sololearn.com/Certificate/1059-645994/pdf/?mode=download) - SoloLearn<br>
+2020 - [SQL Fundamentals ](https://www.sololearn.com/Certificate/1060-645994/pdf/?mode=download) - SoloLearn<br>
+2020 - [Accounting](https://courses.prometheus.org.ua:18090/downloads/2b9a3191365d496c83cb392f2c941dd5/Certificate.pdf) - EY<br>
+2020 - [Digital Marketing](https://learndigital.withgoogle.com/digitalworkshop-ua/validate-certificate-code) - Google<br>
+2019 - Polish language B1 - Polonus Szkoła Języka Polskiego dla Obcokrajowców <br>
+2016 - [Photoshop CS6](http://www.sololearn.com/Profile/645994/) - SoloLearn<br>
+2015 - Commercialization Pathfinder - CRDF Global<br>
+2015 - English language for business purpose - CRDF Global<br>
+2015 - [Fundamentals of Software Testing](http://courses.prometheus.org.ua:18090/downloads/9015ab30c21042b99572280a25404b27/Certificate.pdf) - Lviv IT School<br>
+2015 - [Fundamentals of Information Security](http://edx.prometheus.org.ua:18090/downloads/629afa0e925f47dd9d5ce45f09524d17/Certificate.pdf) - Zillya! Antivirus<br>
+2015 - [Communication tools for building reputation](http://courses.prometheus.org.ua:18090/downloads/f6de5eebf58744058f842b1f336867df/Certificate.pdf) - National University of Kyiv-Mohyla Academy<br>
+2012 - Web design - Ryerson University<br>
+
+
