@@ -6,17 +6,16 @@ _Junior Frontend Developer and System Aministrator from Poland_ <br>
 *****
 Can describe myself as ‘forever student’. I love to learn new things and share my knowledge. 
 I have background in printing and publishing, but I decided change my job and evolve in another field. Few last years I dedicated development in computer science.
-Take part in creating startup projects. 
+I'm taking part at creating startup projects and help at applications maintenance. 
 *****
 
 ## Experience
-**Web developer**
-
+**Web developer**<br>
 *09/2020 - nowadays / Lodz*
 - Created responsive websites based on HTML5, CSS3, JQuery and JavaScript
 - Prepared layouts for creating selfmade WordPress Themes
 
-##### My projects
+#### My projects
 1. [KarmyBrit](https://movie.karmybrit.pl) ................ [ HTML5, SASS, JQuery, Photoshop, Gulp ]    
 Working on this project I learned preprocessor SASS, RWD, media queries, how create hamburger menu.
     
@@ -37,16 +36,14 @@ Working on this project I learned how to create autoplayed tabs, animated hambur
 Template for future online shop on WordPress, nowaday project is frozen.
 Working on this project I learned how to create animated buttons, tabs, dropdown menu, tooltips, sliders, css animations, started RWD. 
 
-**Junior System Administrator**
-
+**Junior System Administrator**<br>
 *04/2021 - nowadays | Lodz*
 - Maintenance and management of Linux web servers (cPanel, DA)
 - Analyzing and solving problems with servers (high loads, failed services, spam attacks)
 - Reaction on monitoring (Icinga)
 - Contact with the clients in Polish and English (calls, WHMCS) to solving problems
 
-**Operator / Coordinator**
-
+**Operator / Coordinator**<br>
 *09/2017 - 03/2021 | Strykow, Aleksandrow Lodzki*
 - Operating machines
 - Controling of the production process
@@ -55,8 +52,7 @@ Working on this project I learned how to create animated buttons, tabs, dropdown
 - Training new employees
 - Translating of instructions
 
-**Printing and Packaging technologist**
-
+**Printing and Packaging technologist**<br>
 *03/2016 - 08/2017 | Kyiv*
 - Calculation the cost of the order and the necessary materials, planning technical process, finding the way to reduce the cost of producing
 - Management of the main production and business processes of the printing house, as well as management accounting and analysis of the results of production activities
@@ -105,6 +101,7 @@ Computer processing of information - Specialist
 - Bootstrap, BEM
 - Gulp, Webpack
 - VS Code, Figma
+- Git
 - WordPress
 - LAN/WAN, Linux/Windows servers
 - Microsoft Office (Word, Exel, Access)
