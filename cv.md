@@ -24,7 +24,7 @@ Working on this project I learned preprocessor SASS, RWD, media queries, how cre
 Working on this project I learned how to work with felxbox model, css framework Bootstrap, BEM, SASS, how to make adaptive from desktop to tablet and mobile versions
     
 3. [Pulse](https://felangelena.000webhostapp.com/Pulse/) .................. [ HTML5, SCSS, JS, JQuery, Figma, Gulp ]
-Working on this project I learned how to create css animations, slider, tabs, modal windows, add google map, button up, work with forms.
+Working on this project I learned preprocessor SCSS, how to create css animations, slider, tabs, modal windows, add google map, button up, work with forms.
     
 4. [WyhodujSam](https://felangelena.000webhostapp.com/WyhodujSam/) ......... [ HTML5, SCSS, JS, JQuery ]
 Working on this project I learned how to styling radiobox, checkbox, create step by step forms, dropdown menu, animatedd elements, search field, side menu, change positions, z-indexes.
@@ -100,4 +100,27 @@ Computer processing of information - Specialist
 2015 - [Communication tools for building reputation](http://courses.prometheus.org.ua:18090/downloads/f6de5eebf58744058f842b1f336867df/Certificate.pdf) - National University of Kyiv-Mohyla Academy<br>
 2012 - Web design - Ryerson University<br>
 
+## Hard skills
+- HTML, CSS (SASS, SCSS), JS, JQuery
+- Bootstrap, BEM
+- Gulp, Webpack
+- VS Code, Figma
+- WordPress
+- LAN/WAN, Linux/Windows servers
+- Microsoft Office (Word, Exel, Access)
+- Adobe Photoshop, Illustrator, InDesign
+- SQL, MySQL, phpMyAdmin
+- ACad, MatCad, MatLab
+- Basics of programming (C++, Java, PascalABC)
+- Driving licence B
+
+## Soft skills
+
+- Focused on the goal
+- Open minded and empathetic
+- Have logical and critical thinking
+- Quickly find myself in a new environment
+- Work under pressure to achieve goals
+- Responsibility
+- Working on compromises
 
