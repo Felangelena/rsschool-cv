@@ -65,3 +65,18 @@ Working on this project I learned how to create animated buttons, tabs, dropdown
 - Management of materials and their distributions
 - Cooperating with managers in the company (consulting and training)
 - Meeting with clients, solving problems and discussing issues
+
+## Education
+
+**SAN** 2020 - 2021 | Lodz<br>
+Frontend - Postgraduate
+
+**Cosinus School** 2018 - 2020 | Lodz<br>
+IT - Specialist
+
+**Igor Sikorsky Kyiv Polytechnic Institute** 2010 - 2016 | Kyiv<br>
+Printing and publishing - Research engineer
+
+**College of National Aviation University** 2006-2010 | Kyiv<br>
+Computer processing of information - Specialist
+
