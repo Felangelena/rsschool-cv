@@ -1,12 +1,17 @@
 # Olena Oliianenko
 
 _Junior Frontend Developer and System Aministrator from Poland_ <br>
+
 ***
-[Email](mailto:felangelena@gmail.com) / [Facebook](https://www.facebook.com/felangelena/) / [LinkedIn](https://www.linkedin.com/in/felangelena) / [GitHub](https://github.com/felangelena) / [Portfolio](https://felangelena.000webhostapp.com/)
+
+[Email](mailto:felangelena@gmail.com) / [Telegram](https://telegram.me/felangelena) / [Facebook](https://www.facebook.com/felangelena/) / [LinkedIn](https://www.linkedin.com/in/felangelena) / [GitHub](https://github.com/felangelena) / [Portfolio](https://felangelena.000webhostapp.com/)
+
 ***
+
 Can describe myself as ‘forever student’. I love to learn new things and share my knowledge. 
 I have background in printing and publishing, but I decided change my job and evolve in another field. Few last years I dedicated development in computer science.
 I'm taking part at creating startup projects and help at applications maintenance. 
+
 ***
 
 ## Experience
