@@ -40,7 +40,7 @@ a {
 }
 
 .about-me {
-    padding: 110px 90px;
+    padding: 80px;
 }
 
 .contacts {
@@ -149,6 +149,11 @@ a {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
+    transition: all 0.5s ease;
+}
+
+.projects-link:hover {
+    color: #666666;
 }
 
 .tech-name {
@@ -211,6 +216,16 @@ a {
     margin-left: 17px;
 }
 
+.education {
+    margin-bottom: 30px;
+}
+
+hr {
+    height: 2px;
+    margin-bottom: 20px;
+    color: rgb(201, 201, 201);
+}
+
 .education-title-university {
     color: #ff6b08;
     font-size: 16px;
@@ -239,6 +254,15 @@ a {
 
 .education {
     margin-top: 20px;
+}
+
+.courses {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.courses-period {
+    color: #ff6b08;
 }
 
 footer {
