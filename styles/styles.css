@@ -24,7 +24,7 @@ body {
 
 .header {
     max-width: 1200px;
-    background-color: #1C3B4F;
+    background-color: #5e636e;
 }
 
 nav>ul>li {
@@ -33,13 +33,13 @@ nav>ul>li {
 
 .menu-links {
     text-decoration: none;
-    color: #ff6b08;
+    color: #fff;
     font-size: 28px;
     font-weight: 700;
 }
 
 .menu-links:hover {
-    color: white;
+    color: #ff6b08;
     transition: 0.5s all ease;
 }
 
@@ -64,7 +64,7 @@ a {
     padding-top: 40px;
     padding-bottom: 40px;
     color: #ffffff;
-    background-color: #000;
+    background-color: #343945;
 }
 
 .myphoto {
@@ -303,7 +303,7 @@ footer {
     max-width: 1200px;
     padding: 10px 0;
     color: #fff;
-    background-color: #1C3B4F;
+    background-color: #5e636e;
 }
 
 footer div {
