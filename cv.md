@@ -14,6 +14,12 @@ I have background in printing and publishing, legality of work, but I want to ev
 ***
 
 ## Experience
+**Administrator**<br>
+*08/2021 - nowadays | Lodz*
+- Making records of hired/fired people in HR System
+- Checking the legality of living and work of employees
+- Making the complex of documents for legal work and living
+
 **Web developer**<br>
 *09/2020 - 07/2021 / Lodz*
 - Created responsive websites based on HTML5, CSS3, JQuery and JavaScript
@@ -68,9 +74,6 @@ Working on this project I learned how to create animated buttons, tabs, dropdown
 
 ## Education
 
-**SAN** 2020 - 2021 | Lodz<br>
-Frontend - Postgraduate
-
 **Cosinus School** 2018 - 2020 | Lodz<br>
 IT - Specialist
 
@@ -101,19 +104,15 @@ Computer processing of information - Specialist
 2012 - Web design - Ryerson University<br>
 
 ## Hard skills
-- HTML, CSS (SASS, SCSS), JS, JQuery
-- Bootstrap, BEM
-- Gulp, Webpack
+- HTML, CSS (SASS, SCSS), JS
 - VS Code, Figma
-- Git
+- Adobe Photoshop, Illustrator
 - WordPress
 - LAN/WAN, Linux/Windows servers
 - Microsoft Office (Word, Exel, Access)
-- Adobe Photoshop, Illustrator, InDesign
 - SQL, MySQL, phpMyAdmin
 - ACad, MatCad, MatLab
-- Basics of programming (C++, Java, PascalABC)
-- Driving licence B
+- Driver's Licence B
 
 ## Soft skills
 
@@ -121,18 +120,16 @@ Computer processing of information - Specialist
 - Open minded and empathetic
 - Have logical and critical thinking
 - Quickly find myself in a new environment
-- Work under pressure to achieve goals
 - Responsibility
-- Working on compromises
 
 ## Languages
 
 - Ukrainian - native
 - Russian - native
 - English - B1
-- Polish - B1
+- Polish - B2
 
 ## On The Side
-- Spent time in swimming pool for relaxing
+- Spend time in swimming pool for relaxing
 - Dance reggaeton for fun
 - Learn new things on online courses
