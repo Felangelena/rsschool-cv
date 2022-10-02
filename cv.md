@@ -1,6 +1,6 @@
 # Olena Oliianenko
 
-_Junior Frontend Developer and System Aministrator from Poland_ <br>
+_Junior Frontend Developer from Poland_ <br>
 
 ***
 
@@ -9,14 +9,13 @@ _Junior Frontend Developer and System Aministrator from Poland_ <br>
 ***
 
 Can describe myself as ‘forever student’. I love to learn new things and share my knowledge. 
-I have background in printing and publishing, but I decided change my job and evolve in another field. Few last years I dedicated development in computer science.
-I'm taking part at creating startup projects and help at applications maintenance. 
+I have background in printing and publishing, legality of work, but I want to evolve in Frontend. 
 
 ***
 
 ## Experience
 **Web developer**<br>
-*09/2020 - nowadays / Lodz*
+*09/2020 - 07/2021 / Lodz*
 - Created responsive websites based on HTML5, CSS3, JQuery and JavaScript
 - Prepared layouts for creating selfmade WordPress Themes
 
@@ -42,7 +41,7 @@ Template for future online shop on WordPress, nowaday project is frozen.
 Working on this project I learned how to create animated buttons, tabs, dropdown menu, tooltips, sliders, css animations, started RWD. 
 
 **Junior System Administrator**<br>
-*04/2021 - nowadays | Lodz*
+*04/2021 - 07/2021 | Lodz*
 - Maintenance and management of Linux web servers (cPanel, DA)
 - Analyzing and solving problems with servers (high loads, failed services, spam attacks)
 - Reaction on monitoring (Icinga)
