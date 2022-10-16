@@ -8,8 +8,8 @@ _Junior Frontend Developer from Poland_ <br>
 
 ***
 
-Can describe myself as ‘forever student’. I love to learn new things and share my knowledge. 
-I have background in printing and publishing, legality of work, but I want to evolve in Frontend. 
+Can describe myself as ‘forever student’. I love to learn new things and share my knowledge.
+I have background in printing and publishing, legality of work, but I want to evolve in Frontend.
 
 ***
 
@@ -26,25 +26,25 @@ I have background in printing and publishing, legality of work, but I want to ev
 - Prepared layouts for creating selfmade WordPress Themes
 
 #### My projects
-1. [KarmyBrit](https://movie.karmybrit.pl) ................ [ HTML5, SASS, JQuery, Photoshop, Gulp ]    
+1. [KarmyBrit](https://movie.karmybrit.pl) ................ [ HTML5, SASS, JQuery, Photoshop, Gulp ]
 Working on this project I learned preprocessor SASS, RWD, media queries, how create hamburger menu.
-    
+
 2. [Uber](https://felangelena.000webhostapp.com/Uber/).................... [ HTML5, SASS, JS, Bootstrap, Figma ]
 Working on this project I learned how to work with felxbox model, css framework Bootstrap, BEM, SASS, how to make adaptive from desktop to tablet and mobile versions
-    
+
 3. [Pulse](https://felangelena.000webhostapp.com/Pulse/) .................. [ HTML5, SCSS, JS, JQuery, Figma, Gulp ]
 Working on this project I learned preprocessor SCSS, how to create css animations, slider, tabs, modal windows, add google map, button up, work with forms.
-    
+
 4. [WyhodujSam](https://felangelena.000webhostapp.com/WyhodujSam/) ......... [ HTML5, SCSS, JS, JQuery ]
 Working on this project I learned how to styling radiobox, checkbox, create step by step forms, dropdown menu, animatedd elements, search field, side menu, change positions, z-indexes.
-    
-5. [AlloWallo](https://felangelena.000webhostapp.com/AlloWallo/) ........... [ HTML5, SCSS, JS, JQuery ] 
+
+5. [AlloWallo](https://felangelena.000webhostapp.com/AlloWallo/) ........... [ HTML5, SCSS, JS, JQuery ]
 Templates for future online shop on WordPress (index, product, listing)
 Working on this project I learned how to create autoplayed tabs, animated hamburger, mobile menu, css grid, reuse css styles to minimize code. Working on WordPress Theme.
-    
-6. [ModiModi](https://felangelena.000webhostapp.com/ModiModi/) .......... [ HTML5, SCSS, JS, JQuery ] 
+
+6. [ModiModi](https://felangelena.000webhostapp.com/ModiModi/) .......... [ HTML5, SCSS, JS, JQuery ]
 Template for future online shop on WordPress, nowaday project is frozen.
-Working on this project I learned how to create animated buttons, tabs, dropdown menu, tooltips, sliders, css animations, started RWD. 
+Working on this project I learned how to create animated buttons, tabs, dropdown menu, tooltips, sliders, css animations, started RWD.
 
 **Junior System Administrator**<br>
 *04/2021 - 07/2021 | Lodz*
